@@ -2,8 +2,7 @@ package com.company;
 
 import java.util.*;
 
-public class Main {
-
+public class M_1_11_1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
