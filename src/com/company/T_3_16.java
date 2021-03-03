@@ -1,4 +1,4 @@
-class TestSurfaceView extends SurfaceView implements SurfaceHolder.Callback, Runnable{
+/*class TestSurfaceView extends SurfaceView implements SurfaceHolder.Callback, Runnable{
 
     float x = -10000, y = -10000, r = 0;
 
@@ -48,3 +48,4 @@ class TestSurfaceView extends SurfaceView implements SurfaceHolder.Callback, Run
         }
     }
 }
+*/
